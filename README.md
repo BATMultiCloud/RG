@@ -2,14 +2,14 @@
 
 ## RG
 ```sh
-git clone  
+git clone https://github.com/BATMultiCloud/RG.git
 ```
 ## VM
 ```sh
-git clone  
+git clone https://github.com/BATMultiCloud/RG.git  
 ```
 
-## SQL DB
+## VM
 ```sh
-git clone  
+git clone https://github.com/BATMultiCloud/RG.git  
 ```
